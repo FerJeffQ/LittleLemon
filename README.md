@@ -1,6 +1,6 @@
 # LittleLemon
 
-LittleLemon app developed using Django for the Back-End Developer Capstone course offered by Meta.
+This is a repository about the final project of LittleLemon app developed using Django for the Back-End Developer Capstone course offered by Meta.
 
 
 

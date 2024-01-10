@@ -1,5 +1,7 @@
 # LittleLemon
 
+Hello There!
+
 LittleLemon app developed using Django for the Back-End Developer Capstone course offered by Meta.
 
 
